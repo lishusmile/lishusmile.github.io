@@ -51,9 +51,8 @@ description:
 		3）这些好处表现在哪些地方。
 - 重头戏！！！有迹可循的创意程序 
 
- 	方法特性分析表！ 	
- 	
- 	问题特性分析表！  
+ 		方法特性分析表！ 
+ 		问题特性分析表！  
  	
 - 细读论文：无需费神proofs and mathematical derivations.
 
