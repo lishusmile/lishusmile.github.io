@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: “葵花宝典”阅读笔记（2）
+title: “葵花宝典”-鸟瞰全局
 category: 读书
 tags: Essay
 keywords: 读书,2018,研究生求生手册
